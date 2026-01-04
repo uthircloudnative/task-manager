@@ -1,0 +1,3 @@
+id,title,description,category,status,completed_at,due_date,created_at
+1,BUY_GROCERIES,This is task to buy groceries,HOME_TASK,Pending,2026-01-03 20:49:00.677419,2026-01-03,2026-01-03 20:48:44.975404
+2,WALKING,This is task to go for WALKING,HOME_TASK,Pending,2026-01-03 20:49:00.677419,2026-01-03,2026-01-03 20:48:44.975404
